@@ -66,7 +66,7 @@ const Contact = () => {
         className="relative z-10 max-w-3xl mx-auto bg-white bg-opacity-90 backdrop-blur-lg rounded-3xl shadow-2xl p-8 space-y-6 animate-fadeIn"
       >
         <h2 className="text-4xl font-extrabold text-center text-purple-700 mb-6 tracking-wide drop-shadow-md">
-          🎓 Student Admission Form
+          🎓 Student Admission Form details
         </h2>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
