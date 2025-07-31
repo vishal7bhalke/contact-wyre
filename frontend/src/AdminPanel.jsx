@@ -17,7 +17,7 @@ const AdminPanel = () => {
 
   return (
     <div className="p-6 bg-gray-100 min-h-screen">
-      <h2 className="text-3xl font-bold text-center mb-6 text-blue-700">All form Submissions</h2>
+      <h2 className="text-3xl font-bold text-center mb-6 text-blue-700">All Submissions</h2>
 
       <div className="overflow-x-auto">
         <table className="min-w-full bg-white shadow-md rounded-lg overflow-hidden">
