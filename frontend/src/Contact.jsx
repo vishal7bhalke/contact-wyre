@@ -54,7 +54,7 @@ const Contact = () => {
     className="flex items-center gap-2 px-5 py-2 bg-gradient-to-br from-blue-600 to-purple-600 text-white font-semibold rounded-full shadow-lg hover:from-purple-600 hover:to-blue-600 transition-all duration-300"
   >
     <span className="text-lg">⬇</span>
-    <span>Admin Panel - View Submissions</span>
+    <span>Admin Panel - View all Submissions</span>
   </Link>
 </div>
 
